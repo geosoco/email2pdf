@@ -1,0 +1,6 @@
+appdirs==1.4.0
+-e git+git@github.com:emCOMP/ezconf.git@1072a541c84f938c8753738574520685b00ec87e#egg=ezconf
+packaging==16.8
+pdfkit==0.6.1
+pyparsing==2.1.10
+six==1.10.0
